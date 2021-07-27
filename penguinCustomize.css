@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+.font-Bebas-Neue {
+  font-family: "Bebas Neue", cursive;
+}
+.jacket img {
+  width: 250px;
+  height: 300px;
+}
+.features img{
+  width: 60px;
+  height: 60px;
+}
